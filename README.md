@@ -1,7 +1,6 @@
 <h1 align="center">Hey 👋, I'm Mourad Soltan</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mourad-soltan" alt="mourad-soltan" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks, courses, etc.**
 
@@ -21,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mourad-soltan&show_icons=true&locale=en&layout=compact" alt="mourad-soltan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mourad-soltan&show_icons=true&locale=en" alt="mourad-soltan" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mourad-soltan" alt="mourad-soltan" /></a> </p>
+
